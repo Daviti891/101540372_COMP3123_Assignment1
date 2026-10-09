@@ -10,7 +10,7 @@ exports.signup = async (req, res, next) => {
         res.status(201).json({ message: 'User created', user });
     } catch (e) {
         next(e);
-    }
+    }s
 };
 
 exports.login = async (req, res, next) => {
