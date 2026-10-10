@@ -1,0 +1,23 @@
+{"level":"info","message":"Login success","timestamp":"2026-10-08T05:12:59.252Z","userId":"6ac721b85ded767ec98adf6c"}
+{"level":"info","message":"request","method":"POST","path":"/api/v1/user/login","status":200,"timestamp":"2026-10-08T05:12:59.253Z"}
+{"level":"info","message":"Login success","timestamp":"2026-10-08T05:14:31.621Z","userId":"6ac721b85ded767ec98adf6c"}
+{"level":"info","message":"request","method":"POST","path":"/api/v1/user/login","status":200,"timestamp":"2026-10-08T05:14:31.623Z"}
+{"level":"info","message":"Login success","timestamp":"2026-10-08T05:16:03.145Z","userId":"6ac721b85ded767ec98adf6c"}
+{"level":"info","message":"request","method":"POST","path":"/api/v1/user/login","status":200,"timestamp":"2026-10-08T05:16:03.146Z"}
+{"level":"warn","message":"Login failed","timestamp":"2026-10-08T05:17:24.012Z"}
+{"level":"info","message":"request","method":"POST","path":"/api/v1/user/login","status":401,"timestamp":"2026-10-08T05:17:24.013Z"}
+{"level":"warn","message":"Validation failed","path":"/login","timestamp":"2026-10-08T05:18:18.494Z"}
+{"level":"info","message":"request","method":"POST","path":"/api/v1/user/login","status":400,"timestamp":"2026-10-08T05:18:18.495Z"}
+{"level":"info","message":"User signup","timestamp":"2026-10-08T05:25:07.201Z","userId":"6ac729325ded767ec98adf70"}
+{"level":"info","message":"request","method":"POST","path":"/api/v1/user/signup","status":201,"timestamp":"2026-10-08T05:25:07.207Z"}
+{"level":"info","message":"Login success","timestamp":"2026-10-08T05:27:11.674Z","userId":"6ac729325ded767ec98adf70"}
+{"level":"info","message":"request","method":"POST","path":"/api/v1/user/login","status":200,"timestamp":"2026-10-08T05:27:11.676Z"}
+{"level":"info","message":"Login success","timestamp":"2026-10-08T05:29:33.053Z","userId":"6ac729325ded767ec98adf70"}
+{"level":"info","message":"request","method":"POST","path":"/api/v1/user/login","status":200,"timestamp":"2026-10-08T05:29:33.054Z"}
+{"level":"info","message":"request","method":"POST","path":"/api/v1/emp/employees","status":201,"timestamp":"2026-10-08T05:33:46.003Z"}
+{"level":"info","message":"request","method":"GET","path":"/api/v1/emp/employees","status":200,"timestamp":"2026-10-08T05:36:53.511Z"}
+{"level":"info","message":"Login success","timestamp":"2026-10-08T05:40:09.155Z","userId":"6ac721b85ded767ec98adf6c"}
+{"level":"warn","message":"Auth failed: Token expired","path":"/employees","timestamp":"2026-10-09T00:47:00.640Z"}
+{"level":"warn","message":"Auth failed: Token expired","path":"/employees","timestamp":"2026-10-09T00:47:59.299Z"}
+{"eid":"6ac72b395ded767ec98adf71","level":"warn","message":"Authorization failed: not owner","timestamp":"2026-10-09T06:10:27.785Z","userId":"6ac721b85ded767ec98adf6c"}
+{"eid":"6ac72b395ded767ec98adf71","level":"warn","message":"Authorization failed: not owner","timestamp":"2026-10-09T06:15:57.908Z","userId":"6ac721b85ded767ec98adf6c"}
