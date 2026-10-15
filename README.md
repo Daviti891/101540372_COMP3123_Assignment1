@@ -124,6 +124,14 @@ never logged. The real log files are ignored by git, so a sample is in `logs/sam
 ```json
 { "status": "ok", "uptime": 35.9, "timestamp": "2026-10-08T04:43:02.356Z", "database": "connected" }
 ```
+## Deployed API
+
+Hosted on Vercel: https://101540372-comp-3123-assignment1.vercel.app
+Health check: https://101540372-comp-3123-assignment1.vercel.app/health
+
+The deployed version uses MongoDB Atlas. Environment variables (`MONGODB_URI`, `JWT_SECRET`,
+`JWT_EXPIRES_IN`) are set in Vercel and not committed. Vercel's filesystem is read-only, so
+logs go to the console (Vercel logs) there. Local runs also write `logs/app.log`.
 
 ## Test Credentials
 
