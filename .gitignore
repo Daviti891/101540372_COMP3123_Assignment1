@@ -149,3 +149,4 @@ vite.config.ts.timestamp-*
 
 # Keep the sample log for submission
 !logs/sample.log
+.DS_Store
